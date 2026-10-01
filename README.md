@@ -25,4 +25,4 @@
 
   Read about Amalgam's documentation and features [here](../../wiki). 
 
-</div>
+</div> 
